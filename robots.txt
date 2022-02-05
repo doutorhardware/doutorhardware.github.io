@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://doutorhardware.github.io/sitemap.xml
